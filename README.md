@@ -1,5 +1,13 @@
 # 💫 About Me:
-👋 Hi, I’m @brej-29<br>👀 I’m interested in ML,AI and Data Science.<br>🌱 I’m currently a Fullstack developer at Accenture.<br>🌱 I completed my BE in ECE at CEG and I have a basic knowledge in Python, C++, MATLAB, ROS and Coppeliasim.<br>💞️ I’m looking to collaborate on projects utilizing AI and ML.<br>📫 Reach me through my handle brej-29.
+👋 Hi, I’m @brej-29<br>
+👀 Passionate about Data Science, Machine Learning, and AI — with a foundation in Full-Stack Development.<br>
+🌱 Currently working as an Advanced Application Engineering Analyst (Full-Stack Developer) at Accenture, contributing to refactoring legacy applications using Spring Boot, Java, and Angular.<br>
+🎓 Graduated with a BE in Electronics & Communication Engineering from CEG, Anna University (CGPA: 8.54).<br>
+📚 Enrolled in a 6-month intensive Data Science program at Logic Mojo (July 2025 – Jan 2026), covering Python, Statistics, SQL, ML/DL, NLP, and advanced AI tools.<br>
+💡 Internship experience in Machine Learning model development (3 months) and research/administrative support at TREC-STEP incubation centre (1 month).<br>
+💞️ Open to collaborating on impactful projects in AI, ML, and Data Science to solve real-world problems.<br>
+📫 Reach me here on GitHub or via my LinkedIn: [Brejesh Balakrishnan](https://www.linkedin.com/in/brejesh-balakrishnan-7855051b9/).<br>
+
 
 
 ## 🌐 Socials:
