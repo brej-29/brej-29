@@ -32,8 +32,9 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brej-29&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brej-29&layout=compact&theme=codeSTACKr&hide_border=false&langs_count=8" height="165" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=brej-29&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=brej-29&layout=compact&theme=codeSTACKr&hide_border=false&langs_count=8" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=brej-29&theme=github_dark" height="165" />
 </div>
 
 <div align="center">
