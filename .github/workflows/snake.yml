@@ -1,27 +1,35 @@
-name: Generate Snake
+name: Contribution animations (snake + pac-man)
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # runs daily at 00:00 UTC
-  workflow_dispatch:      # allow manual runs from the Actions tab
+    - cron: "0 0 * * *"   # daily at 00:00 UTC
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write      # required to push to the output branch
+      contents: write
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Generate snake SVG
+      - name: Generate snake
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: brej-29
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
+      - name: Generate pac-man
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          games: "pacman"
+
+      # Both animations are published together: this action replaces the
+      # whole output branch on every run, so they must share one job.
       - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
