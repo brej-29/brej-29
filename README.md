@@ -150,7 +150,7 @@
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=brej-29&background=0D1117&border=30363D&stroke=30363D&ring=A78BFA&fire=F5B13D&currStreakNum=FFFFFF&sideNums=22D3EE&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=8B949E&border_radius=12" width="80%" alt="Contribution streak"/>
+  <img src="https://streak-stats.demolab.com/?user=brej-29&background=0D1117&border=30363D&stroke=30363D&ring=A78BFA&fire=F5B13D&currStreakNum=FFFFFF&sideNums=22D3EE&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=8B949E&border_radius=12" width="80%" alt="Contribution streak"/>
 </p>
 
 <p align="center">
