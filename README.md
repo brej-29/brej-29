@@ -163,7 +163,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=brej-29&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%" alt="GitHub trophies"/>
+  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=brej-29&theme=onedark&no-frame=true&no-bg=true&column=-1&margin-w=10&rank=-UNKNOWN" alt="GitHub trophies"/>
 </p>
 
 <p align="center">
